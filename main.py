@@ -1,4 +1,4 @@
-from flask import Flask, Response
+from flask import Flask, Response 
 from picamera2 import Picamera2
 import cv2
 import numpy as np
